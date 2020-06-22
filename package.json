@@ -1,7 +1,7 @@
 {
-  "name": "basic-ftp",
-  "version": "4.6.1",
-  "description": "FTP client for Node.js, supports FTPS over TLS, IPv6, Async/Await, and Typescript.",
+  "name": "@jc-lab/basic-ftp",
+  "version": "4.6.1-jclab-rc1",
+  "description": "FTP client for Node.js, supports FTPS over TLS, IPv6, Async/Await, and Typescript. (jc-lab repository version)",
   "main": "dist/index",
   "types": "dist/index",
   "files": [
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/patrickjuchli/basic-ftp.git"
+    "url": "https://github.com/jc-lab/basic-ftp.git"
   },
   "author": "Patrick Juchli <patrickjuchli@gmail.com>",
   "license": "MIT",
